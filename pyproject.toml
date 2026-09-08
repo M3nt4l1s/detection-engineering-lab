@@ -1,0 +1,8 @@
+[project]
+name = "detection-engineering-lab"
+version = "0.1.0"
+description = "Detection and Response Engineering laboratory"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
