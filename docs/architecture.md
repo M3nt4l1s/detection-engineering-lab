@@ -31,3 +31,7 @@ Every detection added to the repository should eventually identify:
 - validation method
 - investigation procedure
 - response guidance
+
+## Design Principle
+
+Detections should be treated as versioned and testable engineering artifacts.
